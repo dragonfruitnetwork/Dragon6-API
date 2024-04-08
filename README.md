@@ -5,6 +5,9 @@
 [![Nuget](https://img.shields.io/nuget/dt/DragonFruit.Six.Api)](https://www.nuget.org/packages/DragonFruit.Six.Api/)
 [![DragonFruit Discord](https://img.shields.io/discord/482528405292843018?label=Discord)](https://dragon6.dragonfruit.network/discord)
 
+> [!WARNING]
+> **Deprecation Notice:** This project has been discontinued and as such some aspects may no longer function as intended. Your mileage may vary.
+
 ### Overview
 
 The Dragon6 API is the backbone of the website and apps with the same name, providing an easy-to-use platform for
